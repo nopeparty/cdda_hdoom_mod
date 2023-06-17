@@ -1,0 +1,9 @@
+{
+  "type": "MOD_INFO",
+  "ident": "Hdoom_monsters",
+  "name": "Hdoom enemies",
+  "authors": [ "nopeparty" ],
+  "description": "Adds some monsters from hdoom. Pretty much unbalance and chaotic. Working in progress.",
+  "category": "creatures",
+  "dependencies": ["bn"]
+}

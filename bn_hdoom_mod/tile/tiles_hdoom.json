@@ -1,0 +1,54 @@
+{
+  "type": "mod_tileset",
+  "compatibility": [ 
+	 "Custom Tileset",
+	 "MshockXottoplus",
+	 "MSX++DEAD_PEOPLE",
+	 "UNDEAD_PEOPLE",
+	 "ChestHole32",
+	 "UNDEAD_PEOPLE_BASE",
+	 "UltimateCataclysm",
+	 "UltimateCataclysmDemo",
+	 "Chibi_Ultica",
+	 "MshockXottoplus",
+	 "Alternative Ultica",
+	 "MshockXottoplus"
+  ],
+  "tile_info": [
+    {
+      "height": 32,
+      "width": 32
+    }
+  ],
+  "tiles-new": [
+    {
+      "file": "tile/hdoom_normal.png",
+      "tiles": 
+      [				
+		{ "id": "mon_impse1", "fg": 0, "rotates": false },	
+        { "id": "corpse_mon_impse1", "fg": 1, "rotates": false },
+		{ "id": "mon_hpinky", "fg": 2, "rotates": false },	
+        { "id": "corpse_mon_hpinky", "fg": 3, "rotates": false }
+      ],
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0
+    },
+      {
+        "file": "tile/hdoom_large.png",
+        "tiles": [
+          { "id": "mon_cyberdemoness", "fg": 6, "rotates": false },
+          { "id": "corpse_mon_cyberdemoness", "fg": 7, "rotates": false },
+		  { "id": "mon_baroness", "fg": 8, "rotates": false },
+          { "id": "corpse_mon_baroness", "fg": 9, "rotates": false },
+          { "id": "mon_helldame", "fg": 10, "rotates": false },
+          { "id": "corpse_mon_helldame", "fg": 11, "rotates": false }		  
+        ],
+        "sprite_width": 64,
+        "sprite_height": 80,
+        "sprite_offset_x": -16,
+        "sprite_offset_y": -48
+    }	
+  ]
+}
