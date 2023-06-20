@@ -110,7 +110,7 @@
     "path_settings": { "max_dist": 35 },
     "special_attacks": [
     ],
-    "death_function": [ "NORMAL", "SMOKEBURST" ],
+    "death_function": [ "NORMAL", "EXPLODE" ],
     "flags": [ "SEES", "HEARS", "PRIORITIZE_TARGETS", "WARM", "POISON", "BLEED", "BASHES", "DESTROYS", "NO_BREATHE", "PUSH_MON", "ATTACKMON" ]
   },
   {
