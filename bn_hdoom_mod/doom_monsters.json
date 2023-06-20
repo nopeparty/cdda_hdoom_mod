@@ -48,7 +48,7 @@
     "species": [ "ABERRATION" ],
     "diff": 16,
     "harvest": "zombie_leather",
-    "hp": 15,
+    "hp": 153,
     "speed": 50,
     "material": [ "flesh" ],
     "symbol": "D",
@@ -74,7 +74,6 @@
       [ "GRAB_DRAG", 15 ]
     ],
     "death_function": [ "NORMAL" ],
-    "burn_into": "mon_pinky_revive",
     "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "BLEED", "PUSH_MON", "GROUP_BASH", "NIGHT_INVISIBILITY", "GROUP_MORALE" ]
   },
   {
@@ -123,7 +122,7 @@
     "species": [ "ABERRATION" ],
     "diff": 30,
     "harvest": "zombie_leather",
-    "hp": 150,
+    "hp": 520,
     "speed": 60,
     "material": [ "flesh" ],
     "symbol": "K",
@@ -175,7 +174,7 @@
     "species": [ "ABERRATION" ],
     "diff": 20,
     "harvest": "zombie_leather",
-    "hp": 150,
+    "hp": 260,
     "speed": 60,
     "material": [ "flesh" ],
     "symbol": "K",
@@ -202,7 +201,6 @@
       [ "GRAB", 20 ]
     ],
     "death_function": [ "NORMAL" ],
-    "burn_into": "mon_hell_knight_revive",
     "flags": [ "SEES", "HEARS", "SMELLS", "PATH_AVOID_DANGER_1", "WARM", "BASHES", "GROUP_BASH", "POISON", "PUSH_MON", "BLEED" ]
   }
 ]
